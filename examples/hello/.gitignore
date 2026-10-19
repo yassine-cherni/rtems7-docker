@@ -1,0 +1,8 @@
+/build/
+/.lock-waf*
+/.waf*
+/__pycache__/
+
+# Copied in by the container on every run
+/waf
+/rtems_waf/
